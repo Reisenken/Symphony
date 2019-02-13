@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/skeleton/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/skeleton/src" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/skeleton/vendor/symfony/yaml" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
