@@ -1,0 +1,20 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+    Article : {{ title }}
+{% endblock %}
+
+
+
+{% block body %}
+    {% for comment in comments %}
+        <p>{{ comment }}</p>
+    {% endfor %}
+
+    <p style="margin-bottom: 5%"> Nombre d'entrées dans le tableau : {{comments|length}} </p>
+
+    <p> {{ title }} </p>
+    <p> {{ contenu }} </p>
+
+{% endblock %}
+

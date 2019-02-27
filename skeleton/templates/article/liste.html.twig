@@ -1,0 +1,14 @@
+{% extends 'base.html.twig' %}
+
+
+
+{% block body %}
+
+
+    {% for liste in article %}
+        <p><a href="{{ path('article_show_from_db', {id:liste.id}) }}">articles {{ liste.id }}</a></p>
+    {% endfor %}
+
+
+
+{% endblock %}
